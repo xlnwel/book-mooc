@@ -45,3 +45,6 @@ UCL David Silver: [course website](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/T
 Open AI: Deep RL Bootcamp [course website](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U)
 
 University of Copenhagen & Technical University of Denmark: Academic Information Seeking [course website](https://www.coursera.org/learn/academicinfoseek/home)
+
+Stanford University: Introduction to Mathematical Thinking [course website](https://www.coursera.org/learn/mathematical-thinking)
+
